@@ -1,4 +1,4 @@
-
+/*style for index page*/
 .nav{
     background-color: orangered;
     height: 50px;
@@ -525,7 +525,7 @@ a {
     margin-right: 5px;
     border-radius: 5px;
     font-size: 13px;
-    background-color: #951f1f;
+    background-color: gray;
     display: inline-block;
     margin-top: 5px;
 }
