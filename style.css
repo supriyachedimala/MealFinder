@@ -3,6 +3,9 @@
     background-color: orangered;
     height: 50px;
     width: auto;
+    position: sticky;
+    top:0;
+    z-index: 1;
 }
 .navlist{
     display: flex;
