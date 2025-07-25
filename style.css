@@ -488,28 +488,6 @@ p{
 
 
 }
-
-
-
-
-.ingredients {
-   background-color: #d35400;
-    color: white;
-    display: inline-table;
-    margin-bottom:20px;
-    padding: 15px;
-    border-radius: 10px;
-    margin-top: 15px;
-}
-.ingredients-grid{
-    list-style-type: none;
-    display:table;
-    padding: 0;
-    margin: 0;
-    padding-right: 30px;
-    color: white;
-    height: 50px;
-}
 .ingredients-grid li{
     margin-bottom: 6px;
     display: table;
