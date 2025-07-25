@@ -491,18 +491,7 @@ p{
 
 
 
-.tags span {
 
-    background-color:#ccc;
-    color: #000;
-    padding: 4px 10px;
-    margin: 4px 4px 8px 0;
-    display: inline-block;
-    border-radius: 4px;
-    font-size: 20px;
-    text-align: center;
-    
-}
 .ingredients {
    background-color: #d35400;
     color: white;
